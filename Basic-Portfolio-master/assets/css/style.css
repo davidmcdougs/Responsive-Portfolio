@@ -1,0 +1,233 @@
+@media only screen and (max-width: 960px) {
+	html {
+		padding-left:0%;
+		padding-left:auto;
+		padding-right:0% auto;
+		width:100%;
+	}
+	p {
+		font-size:15px;
+	}
+	.primarytext {
+	float:left;
+	font-size:15px;
+	font-family:sans-serif;
+	padding-right:3%;
+}
+}
+@media only screen and (max-width: 768px) {
+	p {
+		font-size:12px;
+	}
+	html {
+	}
+	.primarytext {
+	float:left;
+	font-size:12px;
+	font-family:sans-serif;
+	padding-right:3%;
+}
+}
+@media only screen and (max-width: 640px) {
+	p {
+		font-size:10px;
+	}
+	.primarytext {
+	float:left;
+	font-size:10px;
+	font-family:sans-serif;
+	padding-right:3%;
+}
+	#intro {
+	position:static;	
+}
+
+}
+
+html {
+	background-image:url("http://www.marble.com/art/wp-content/uploads/img/BIANCO%20VENATO%20003BR%20DONE%20WEB.jpg");
+	font-family:#777777;
+	width:100%;
+	height:900px;
+	text-decoration-style:0;
+	padding-right:0 auto;
+	padding-left:10% auto;
+	margin:0px;
+}
+h2 {
+	color:#4aaaa5;
+	text-align:middle;
+}
+img {
+	margin:1%;
+}
+a {
+	text-decoration:none;
+}
+input {
+	width:100%;
+}
+form {
+	font-family:#777777;
+	margin-left:5px;
+}
+p 	{
+	width:100%;
+}
+
+#intro {
+	width:100%;
+	height:80px;
+	background-color:white;
+	margin:0px auto;
+	/*border-style:solid;*/
+	/*border-color:black;*/
+}
+
+#nameplate {
+width:35%;
+height:100%;
+float:left;
+color:white;
+background-color:#4aaaa5;
+margin-top:0px;
+/*padding-left:5px;*/
+text-align:center;
+border-right-style:solid;
+vertical-align:center;
+
+/*border-color:black;*/
+}
+
+#directory{
+width:60%;
+float:right;
+text-align:right;
+margin-top:30px;
+text-decoration:none;
+}
+.headlink {
+	width:100%;
+	color:grey;
+	text-decoration:none;
+	padding:0px 5% 0px 5%;
+	border-right-style:solid;
+	border-width:3px;
+}
+#bordergaurd{
+	border-right-style:none;
+	text-decoration:none;
+	color:grey;
+	margin-right:5%;
+	padding-left:5%;
+}
+
+#content {
+}
+
+#primary {
+	float:left;
+	width:60%;
+	height:100%;
+	background-color:white;
+
+}
+#primarytitle {
+	width:100%;
+	margin-bottom:5px;
+	border-bottom-style:solid;
+	border-color:lightgrey;
+	text-align:center;
+
+}
+#primarytitle2 {
+	margin-bottom:5px;
+	border-bottom-style:solid;
+	border-color:lightgrey;
+	padding-left:40%;
+	text-align:middle;
+
+}
+#meprimary {
+	float:left;
+	width:20%;
+	height:20%;
+	border-style:solid;
+	border-color:lightgrey;
+}
+.primarytext {
+	float:left;
+	font-family:sans-serif;
+	padding-right:3%;
+}
+
+#primaryzero {
+	margin:0;
+	border:none;
+	padding:0;
+	color:red;
+}
+#linktitle {
+	color:#4aaaa5;
+	text-align:center;
+/*	padding-right:10%;
+	padding-left:30%;*/
+	border-bottom-style:solid;
+	border-color:lightgrey;
+}
+
+#linkbox {
+	float:right;
+	width:35%;
+	height:20%;
+	background-color:white;
+	margin-right:0px;
+	text-align:middle;
+}
+#logohold {
+	width:100%;
+	height:90%;
+	margin-top:10%;
+	margin-left:;
+}
+#facebooklogo {
+	margin-left:25%;
+	width:15%;
+	height:40%;
+}
+#linkedinlogo {
+	width:15%;
+	height:40%;
+}
+#githublogo {
+	width:15%;
+	height:40%;
+	margin-right:;
+}
+#footer {
+	width:100%;
+	height:10%;
+	display:block;
+	bottom:0px;
+	position:bottom;
+	position:static;
+	vertical-align:middle;
+	text-align:middle;
+	color:white;
+	background-color:#4aaaa5;
+	position:absolute;
+}
+#mimic {
+	height:10%;
+	width:80% ;
+}
+#feedback {
+	height:50%;
+}
+#button {
+	background-color:#4aaaa5;
+	color:white;
+	height:50px
+	width:100px;
+	margin-left:5px;
+}
